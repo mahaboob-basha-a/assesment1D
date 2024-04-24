@@ -1,0 +1,10 @@
+.card{
+    width: 150px;
+    height: 180px;
+}
+.card img{
+    width: 150px;
+}
+.card p{
+    font-size: 12px;
+}

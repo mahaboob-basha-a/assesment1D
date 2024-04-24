@@ -1,0 +1,18 @@
+.home-page {
+  height: 100vh;
+  width: 100vw;
+}
+.navbar {
+  width: 100%;
+  height: 60px;
+  padding: 15px;
+}
+.navbar img {
+  width: 100px;
+}
+.ul-container{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
